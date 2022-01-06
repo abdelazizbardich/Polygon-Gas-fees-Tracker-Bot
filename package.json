@@ -1,0 +1,16 @@
+{
+  "name": "guwi-tracker",
+  "version": "1.0.0",
+  "description": "polygone safe gas tracker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "discord.js": "^13.5.0",
+    "dotenv": "^10.0.0"
+  }
+}
